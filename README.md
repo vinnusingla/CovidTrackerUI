@@ -12,3 +12,9 @@ Usage Steps
 
 
 Demo -->
+
+Main Page
+![image](https://user-images.githubusercontent.com/17278888/115153988-4817f400-a096-11eb-8452-b0fa5c339981.png)
+
+Interactive UI / Select Metrics like Only Deaths
+![image](https://user-images.githubusercontent.com/17278888/115154029-75fd3880-a096-11eb-9b2d-b792684f2894.png)
