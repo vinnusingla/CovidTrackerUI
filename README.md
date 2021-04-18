@@ -1,5 +1,5 @@
-# CovidTrackerUI
-Website which scrapes covid data from www.mohfw.gov.in and presnts on interactive UI
+# PWA - CovidTrackerUI
+Prograssive Web App which scrapes covid data from www.mohfw.gov.in and presnts on interactive UI
 
 ![image](https://user-images.githubusercontent.com/17278888/115153914-db045e80-a095-11eb-8f78-39b40f3256af.png)
 
@@ -10,6 +10,10 @@ Usage Steps
   <li>npm run build</li> 
   <li>npm run start</li>
 </ul>
+
+PWA -->
+Data is served from service worker
+![image](https://user-images.githubusercontent.com/17278888/115166309-2b001700-a0d0-11eb-8239-386d5ff8cd68.png)
 
 
 Demo -->
