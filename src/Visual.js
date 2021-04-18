@@ -87,7 +87,7 @@ export default class Visual3 extends React.Component{
 	componentDidMount() {
 		this.timerID = setInterval(
 		  () => this.tick(),
-		  10000000
+		  120000
 		);
 	}
 
