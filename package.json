@@ -17,6 +17,7 @@
     "react": "^17.0.2",
     "react-d3-chart-graphs": "^6.0.3",
     "react-dom": "^17.0.2",
+    "react-helmet": "^6.1.0",
     "request": "^2.88.2"
   },
   "devDependencies": {
@@ -27,6 +28,7 @@
     "html-webpack-plugin": "^5.3.1",
     "webpack": "^5.33.2",
     "webpack-cli": "^4.6.0",
-    "webpack-dev-server": "^3.11.2"
+    "webpack-dev-server": "^3.11.2",
+    "workbox-webpack-plugin": "^6.1.5"
   }
 }

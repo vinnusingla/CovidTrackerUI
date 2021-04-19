@@ -81,18 +81,10 @@ export default class Visual3 extends React.Component{
 			},
 			data: null
 		};
-		this.tick();
 	}
 
 	componentDidMount() {
-		this.timerID = setInterval(
-		  () => this.tick(),
-		  120000
-		);
-	}
-
-	componentWillUnmount() {
-		clearInterval(this.timerID);
+		this.tick();
 	}
 
 	tick() {
