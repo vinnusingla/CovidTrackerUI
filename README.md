@@ -13,6 +13,7 @@ Usage Steps
 
 PWA -->
 Data is served from service worker
+
 ![image](https://user-images.githubusercontent.com/17278888/115166309-2b001700-a0d0-11eb-8239-386d5ff8cd68.png)
 
 
